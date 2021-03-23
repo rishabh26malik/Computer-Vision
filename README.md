@@ -13,3 +13,9 @@ This repository contains the assignments in computer vision course that I did du
 - Find matches between two partially overlapping images using SIFT.
 - **Stereo Correspondences**
 - Stereo Rectification
+
+### Assignment-3
+- Implmentation of **“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts** for image segmentation
+- Paper link 
+    - **Grab-Cut** : http://vision.stanford.edu/teaching/cs231b_spring1415/papers/SIGGRAPH04_RotherKolmogorovBlake.pdf
+    - **Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images** : http://vision.stanford.edu/teaching/cs231b_spring1415/papers/ICCV03_BoykovJolly.pdf
