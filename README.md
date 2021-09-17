@@ -26,3 +26,7 @@ This repository contains the assignments in computer vision course that I did du
 
 ### Assignment-5
 - Convolutional Neural Networks for classification
+
+### Project
+Topic - Dual Illumination Estimation for Robust-Exposure Correction
+Link - https://github.com/rishabh26malik/Dual-Illumination-Estimation-for-Robust-Exposure-Correction
